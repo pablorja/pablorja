@@ -7,9 +7,9 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Ubicaci%C3%B3n-Colombia-ffd700?style=for-the-badge&logo=googlemaps&logoColor=white" />
-  <img src="https://img.shields.io/badge/Enfoque-Backend%20%26%20Software-orange?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Estado-En%20formaci%C3%B3n-brightgreen?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Ubicaci%C3%B3n-Colombia-ffd700?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Ubicación: Colombia" />
+  <img src="https://img.shields.io/badge/Enfoque-Backend%20%26%20Software-orange?style=for-the-badge" alt="Enfoque: Backend y Software" />
+  <img src="https://img.shields.io/badge/Estado-En%20formaci%C3%B3n-brightgreen?style=for-the-badge" alt="Estado: En formación" />
 </p>
 
 ---
@@ -29,7 +29,7 @@ Soy una persona apasionada por la tecnología y la programación, con interés e
 ### Tecnologías y herramientas
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,py,js,html,css,mysql,git,github,vscode,visualstudio&perline=6" />
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,py,js,html,css,mysql,git,github,vscode,visualstudio&perline=6" alt="Tecnologías: C#, .NET, Python, JavaScript, HTML, CSS, MySQL, Git, GitHub, VS Code, Visual Studio" />
 </p>
 
 ---
@@ -38,24 +38,24 @@ Soy una persona apasionada por la tecnología y la programación, con interés e
 
 <table>
   <tr>
-    <td width="50%">
+    <td width="50%" valign="top">
       <h4>🏨 Sistema de reservas de hotel</h4>
       <p>Proyecto en C# para gestionar reservas, servicios y flujo de atención de un hotel.</p>
       <a href="https://github.com/pablorja/sistema-de-reservas-de-habitaciones-y-servicios-para-un-hotel">Ver repositorio →</a>
     </td>
-    <td width="50%">
+    <td width="50%" valign="top">
       <h4>🔌 API + MySQL</h4>
       <p>API REST con ASP.NET Core conectada a base de datos MySQL con operaciones CRUD.</p>
       <a href="https://github.com/pablorja/API-DATA-BASE">Ver repositorio →</a>
     </td>
   </tr>
   <tr>
-    <td width="50%">
+    <td width="50%" valign="top">
       <h4>🧮 Calculadora en Python</h4>
       <p>Proyecto básico para reforzar lógica, validaciones y estructura de programación.</p>
       <a href="https://github.com/pablorja/calculadora-">Ver repositorio →</a>
     </td>
-    <td width="50%">
+    <td width="50%" valign="top">
       <h4>🌐 Mi primer portafolio</h4>
       <p>Primer proyecto web personal como inicio de mi camino profesional en desarrollo.</p>
       <a href="https://github.com/pablorja/mi_primer_portafolio">Ver repositorio →</a>
@@ -68,12 +68,16 @@ Soy una persona apasionada por la tecnología y la programación, con interés e
 ### Estadísticas de GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pablorja&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pablorja&layout=compact&theme=tokyonight&hide_border=true" width="42%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=pablorja&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" width="48%" alt="Estadísticas de GitHub de pablorja" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pablorja&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=86400" width="48%" alt="Lenguajes más usados por pablorja" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pablorja&theme=tokyonight&hide_border=true" width="60%" />
+  <img src="https://streak-stats.demolab.com?user=pablorja&theme=tokyonight&hide_border=true" width="60%" alt="Racha de contribuciones de pablorja" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pablorja&theme=tokyonight" width="80%" alt="Resumen del perfil de pablorja" />
 </p>
 
 ---
@@ -82,16 +86,16 @@ Soy una persona apasionada por la tecnología y la programación, con interés e
 
 <p align="center">
   <a href="https://github.com/pablorja">
-    <img src="https://img.shields.io/badge/GitHub-pablorja-181717?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-pablorja-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub: pablorja" />
   </a>
 </p>
 
 ---
 
 <p align="center">
-  <i>“El código no solo resuelve problemas; también crea oportunidades.”</i>
+  <i>"El código no solo resuelve problemas; también crea oportunidades."</i>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=pablorja&label=Visitas%20al%20perfil&color=2EA3F2&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=pablorja&label=Visitas%20al%20perfil&color=2EA3F2&style=flat" alt="Contador de visitas al perfil" />
 </p>
