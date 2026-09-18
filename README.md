@@ -61,6 +61,13 @@ Soy una persona apasionada por la tecnología y la programación, con interés e
       <a href="https://github.com/pablorja/mi_primer_portafolio">Ver repositorio →</a>
     </td>
   </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>☕ E-commerce de café</h4>
+      <p>Catálogo full stack con Angular, ASP.NET Core, MySQL y CRUD completo para administrar cafés.</p>
+      <a href="https://github.com/pablorja/FULLSTACK-front-end-Y-back-end-API">Ver repositorio →</a>
+    </td>
+  </tr>
 </table>
 
 ---
